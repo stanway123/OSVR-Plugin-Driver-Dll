@@ -1,2 +1,1 @@
-# OSVR-Plugin-Driver-Dll
-plugin added
+OSVR-Ximmerse plugin dll for hands controllers
